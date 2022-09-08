@@ -5,7 +5,7 @@
 Marko Lazovic CoffeeShop
 Made by Marko
 
-Live preview: [https://portfolio-markodev.netlify.app/)
+Live preview: [https://coffeeshop-markodev.netlify.app/)
 
 Project Description
 Beautiful Coffee inspired design, not completely finished, but is responsive and easily upgradable.
